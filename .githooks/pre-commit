@@ -1,8 +1,8 @@
     #!/bin/sh
 
     # Define the maximum allowed file size in bytes (e.g., 10MB)
-    # MAX_FILE_SIZE_BYTES=10485760
-    MAX_FILE_SIZE_BYTES=1048
+    MAX_FILE_SIZE_BYTES=10485760
+    # MAX_FILE_SIZE_BYTES=1048
 
     # Get a list of added files in the current commit
     ADDED_FILES=$(git diff --cached --name-only --diff-filter=A)
