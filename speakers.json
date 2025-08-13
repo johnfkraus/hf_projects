@@ -1,0 +1,56 @@
+{ "speakers" : [
+    {
+      "name":"Mr Bellingham",
+      "shortname":"Barot_Bellingham",
+      "reknown":"Royal Academy of Painting and Sculpture",
+      "bio":"Barot has just finished his final year at The Royal Academy..."
+    },
+    {
+      "name":"Jonathan G. Ferrar II",
+      "shortname":"Jonathan_Ferrar",
+      "reknown":"Artist to Watch in 2012",
+      "bio":"The Artist to Watch in 2012 by the London Review,..."
+    },
+    {
+      "name":"Hillary Hewitt Goldwynn-Post",
+      "shortname":"Hillary_Goldwynn",
+      "reknown":"New York University",
+      "bio":"Hillary is a sophomore art sculpture student at New York..."
+    },
+    {
+      "name":"Hassum Harrod",
+      "shortname":"Hassum_Harrod",
+      "reknown":"Art College in New Dehli",
+      "bio":"The Art College in New Dehli has sponsored Hassum on..."
+    },
+    {
+      "name":"Jennifer Jerome",
+      "shortname":"Jennifer_Jerome",
+      "reknown":"New Orleans, LA",
+      "bio":"A native of New Orleans, much of Jennifer's work has..."
+    },
+    {
+      "name":"LaVonne L. LaRue",
+      "shortname":"LaVonne_LaRue",
+      "reknown":"Chicago, IL",
+      "bio":"LaVonne's giant-sized paintings all around Chicago tell..."
+    },
+    {
+      "name":"Constance Olivia Smith",
+      "shortname":"Constance_Smith",
+      "reknown":"Fullerton-Brighton-Norwell Award",
+      "bio":"Constance received the Fullerton-Brighton-Norwell Award..."
+    },
+    {
+      "name":"Riley Rudolph Rewington",
+      "shortname":"Riley_Rewington",
+      "reknown":"Roux Academy of Art, Media, and Design",
+      "bio":"A first-year student at the Roux Academy of Art, Media,..."
+    },
+    {
+      "name":"Xhou Ta",
+      "shortname":"Xhou_Ta",
+      "reknown":"China International Art University",
+      "bio":"A senior at the China International Art University, Xhou..."
+    }
+  ]}
